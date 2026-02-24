@@ -34,9 +34,7 @@ let availableRejectedCount = document.getElementById("rejected-available");
    2. ARRAY CREATE AND STORE VALUE allCard & Interview & Rejected  
 ========================*/
 
-let interviewList = [];
-let rejectedList = [];
-let allCardList = [];
+
 
 
 
