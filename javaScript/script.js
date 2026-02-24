@@ -36,7 +36,7 @@ let availableRejectedCount = document.getElementById("rejected-available");
 
 let interviewList = [];
 let rejectedList = [];
-
+let allCardList = [];
 
 
 
